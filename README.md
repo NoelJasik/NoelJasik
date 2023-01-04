@@ -5,4 +5,3 @@ I have been programming for 4 years now, and have mostly focused on developing v
 
 My main programming languages are C# and Javascript, but I am also familiar with Typescript, PHP, Solidity, Java and C++. I am always eager to learn new technologies and expand my skillset.
 
-📫 Discord: NoelJasik#8768 
