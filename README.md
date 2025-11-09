@@ -1,5 +1,5 @@
 # Noel Jasik
-## Developer from Poland
+## Currently studying Computer Science in Engineering at AGH
 
 I have been programming for 5+ years now, and have mostly focused on developing video games and websites. I enjoy participating in game jams and love the thrill of creating something new and exciting.
 
